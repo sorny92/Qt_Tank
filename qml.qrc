@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MenuView.qml</file>
+        <file>ControlView.qml</file>
+        <file>ConfigureView.qml</file>
+        <file>WorkView.qml</file>
+        <file>Button.qml</file>
+        <file>SimulatorView.qml</file>
+        <file>Spinner.qml</file>
+        <file>Chart.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>tank.svg</file>
+        <file>pumpMaskClick.svg</file>
+        <file>pumpOPEN.svg</file>
+        <file>pumpOPENING.svg</file>
+        <file>pumpRUN.svg</file>
+        <file>pumpSTOP.svg</file>
+        <file>pumpSTOPING.svg</file>
+        <file>LevelArrow.svg</file>
+        <file>heaterOFF.svg</file>
+        <file>heaterON.svg</file>
+    </qresource>
+</RCC>
